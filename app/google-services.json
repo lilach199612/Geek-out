@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792932627130",
+    "project_id": "geek-out-2e3f3",
+    "storage_bucket": "geek-out-2e3f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792932627130:android:5cee8f63862069f0b28883",
+        "android_client_info": {
+          "package_name": "com.example.geekingout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792932627130-qdm5sfqssqhdq24msur5a42jfdidhco2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWk6VO0w62D8lKudl7eyWNPHY-ZzhGblc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792932627130-qdm5sfqssqhdq24msur5a42jfdidhco2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
